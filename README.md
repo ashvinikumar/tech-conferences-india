@@ -14,6 +14,7 @@ To add a conference to the list, please [contribute](#contributing)!
 | [ODSC (One Data Science Conference) ](https://india.odsc.com/) | 30 Aug – 2 Sep | Hotel Lalit Ashok, Bengaluru  | Conference on AI and Data Science |
 | [DevConf.in 2018](https://devconf.info/in) | 4-5 Aug | Christ University - Bengaluru | Annual Developers' Conference organised by Red Hat for local FOSS community |
 | [Deccan RubyConf 2018](https://www.deccanrubyconf.org/) | 4 Aug | Sheraton Grand Hotel, Pune | Pune extension of RubyConf India organized by same folks organizing RubyConf India |
+[Container Conference 2018](http://www.containerconf.in/) | 3-4 Aug | Park Plaza, Bangalore | Developer focussed container conference on Azure Containers, Docker, Fargate, Kubernetes, Google Kubernetes Engine, etc. |
 | [DroidJam](https://www.droidjam.in) | 13-14 July | Sheraton Grand, Bangalore | Conference on Android |
 | [Selenium Conf 2018](https://2018.seleniumconf.in/) | 28-30 June | Hotel Lalit Ashok, Bangalore  | Conference on Selenium Web Browser Automation tool |
 | [World Satoshi Summit](https://www.worldsatoshisummit.com/) | 12-13 May | New Delhi | Bring all the students, entrepreneurs, blockchain enthusiasts, blockchain developers and influencers under one roof for a seamless exchange of ideas. |
